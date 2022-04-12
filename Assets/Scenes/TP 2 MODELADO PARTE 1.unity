@@ -211,7 +211,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   texto: {fileID: 810091175}
-  edad: 19
+  edad: 12
 --- !u!4 &442874333
 Transform:
   m_ObjectHideFlags: 0
